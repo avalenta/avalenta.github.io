@@ -1,0 +1,61 @@
+body {font-family: 'Cormorant Garamond', serif;
+}
+
+.nav-link {font-size: 28px;
+}
+
+.navbar-brand {font-size: 32px;
+}
+
+p {font-size: 28px;
+    padding-left: 5%;
+    color: white;
+}
+
+h1 {font-size: 40px;
+    padding-top: 20px;
+padding-left: 5%;
+font-weight: bold;
+color: white; 
+}
+
+.btn-dark {background-color: #090a0a;
+    border-color: #090a0a;
+}
+
+.mainjumbotron {
+    background-image: url(website-images/railaybeach.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 550px;
+    padding-top: 3%;
+}
+
+.traveljumbotron {
+    background-image: url(website-images/pho.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 550px;
+    padding-top: 3%;
+}
+
+.stylejumbotron {
+    background-image: url(website-images/fashun.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 550px;
+    padding-top: 3%;
+}
+   
+.kohsamui {
+    height: 500px;
+    width: 600px;
+
+}
+.fashun {
+    height: 500px;
+    width: 600px;
+}
